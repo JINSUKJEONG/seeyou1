@@ -6,4 +6,3 @@ two
 2-2
 again1
 4+4
-git 
